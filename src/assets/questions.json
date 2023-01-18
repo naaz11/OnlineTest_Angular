@@ -1,0 +1,167 @@
+{
+    "questions": [
+        {
+            "questionText": "Arrays in java are..?",
+            "options": [{
+                    "text": "Objects",
+                    "correct": true
+                },
+                {
+                    "text": "Object Reference"
+                },
+                {
+                    "text": "Primitive Data Types"
+                },
+                {
+                    "text": "None"
+                }
+            ],
+            "explanation": "Arrays are objects in java. It is a container that holds a fixed number of items of a single type."
+        },
+        {
+            "questionText": "Number of primitive data types in Java are?",
+            "options": [{
+                    "text": 6
+                },
+                {
+                    "text": 7
+                },
+                {
+                    "text": 9
+                },
+                {
+                    "text": 8,
+                    "correct": true
+                }
+            ],
+            "explanation": "There are 8 types of primitive data types- int, char, boolean, byte, long, float, short, double."
+        },
+        {
+            "questionText": "In which of the following is toString() method defined?",
+            "options": [{
+                    "text": "java.lang.String"
+                },
+                {
+                    "text": "java.lang.Object",
+                    "correct": true
+                },
+                {
+                    "text": "java.lang.Util"
+                },
+                {
+                    "text": "None"
+                }
+            ],
+            "explanation": "itoString() is defined in java.lang.Object"
+        },
+        {
+            "questionText": "How else can Array<number> be written in TypeScript?",
+            "options": [{
+                    "text": "@number"
+                },
+                {
+                    "text": "number[]",
+                    "correct": true
+                },
+                {
+                    "text": "number!"
+                },
+                {
+                    "text": "number?"
+                }
+            ],
+            "explanation": "number[] is another way of writing Array<number> in TypeScript"
+        },
+        {
+            "questionText": "compareTo() returns ?",
+            "options": [{
+                    "text": "An Int Value",
+                    "correct": true
+                },
+                {
+                    "text": "True"
+                },
+                {
+                    "text": "False"
+                },
+                {
+                    "text": "None"
+                }
+            ],
+            "explanation": "compareTo() returns an int value"
+        },
+        {
+            "questionText": " Identify the interface which is used to declare core methods in java ?",
+            "options": [{
+                    "text": "Set"
+                },
+                {
+                    "text": "Event Listener"
+                },
+                {
+                    "text": "Comparator"
+                },
+                {
+                    "text": "Collection",
+                    "correct": true
+                }
+            ],
+            "explanation": "Collection is used to declare core methods in java"
+        },
+        {
+            "questionText": "When is the finalize() method called?",
+            "options": [{
+                    "text": "Before the variable goes out of the scope"
+                },
+                {
+                    "text": "Before garbage Collection",
+                    "correct": true
+                },
+                {
+                    "text": "Before the object goes out of scope"
+                },
+                {
+                    "text": "Before the constructor"
+                }
+            ],
+            "explanation": "finalize() method is called before garbage collection"
+        },
+        {
+            "questionText": "Which is an array method to generate a new array based on a condition?",
+            "options": [{
+                    "text": "filter",
+                    "correct": true
+                },
+                {
+                    "text": "map"
+                },
+                {
+                    "text": "async"
+                },
+                {
+                    "text": "enum"
+                }
+            ],
+            "explanation": "filter is a method used to conditionally create a new array"
+        },
+        {
+            "questionText": "Which of the following is used to find and fix bugs in the program?",
+
+             "options": [{
+                    "text": "JDB",
+                    "correct": true
+                },
+                {
+                    "text": "JDK"
+                },
+                {
+                    "text": "JVM"
+                },
+                {
+                    "text": "JRE"
+                }
+            ],
+            "explanation": "JDB is used to find and fix bugs in the program"
+        }
+    ]
+}
